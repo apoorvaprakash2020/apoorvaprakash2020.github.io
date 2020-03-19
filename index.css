@@ -166,7 +166,7 @@ header table {
     height:95vh;
     background:url("./assets/Apoorva Launch-01.jpg") center center;
     background-size:cover;
-    background-repeat:no-repeat;
+    background-repeat: repeat;
 }
 #work {
     width:92vw;
