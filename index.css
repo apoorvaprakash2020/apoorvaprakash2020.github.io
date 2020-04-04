@@ -168,6 +168,14 @@ header table {
     background-size:cover;
     background-repeat: no-repeat;
 }
+
+#centerImage {
+    width:100%;
+    height:auto;
+    background:url("./assets/ap2.JPG") center center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
 #work {
     width:92vw;
     padding:6vh 4vw;
@@ -200,6 +208,13 @@ header table {
     padding:6vh 4vw;
     font-weight:bold;
 }
+
+#bio1 {
+    width:92vw;
+    padding:6vh 4vw;
+    font-weight:bold;
+}
+
 #bio h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(114, 64, 123);
@@ -218,7 +233,7 @@ header table {
     width:100%;
 }
 #contact table tr td {
-    width:50%;
+    width:100%;
 }
 #inner_div table{
     width:100%;
@@ -297,10 +312,10 @@ button:focus {
     background: #f1f1f1; 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(0, 0, 0); 
+    background: rgb(114, 64, 123); 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(0, 0, 0,0.8); 
+    background: rgb(114, 64, 123); 
 }
 
 @media (max-width: 1000px){
