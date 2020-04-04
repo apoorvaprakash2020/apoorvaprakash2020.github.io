@@ -176,13 +176,6 @@ header table {
     background-repeat: no-repeat;
 }
 
-#centerImage {
-    width:100%;
-    height:auto;
-    background:url("./assets/ap2.JPG") center center;
-    background-size:cover;
-    background-repeat: no-repeat;
-}
 #work {
     width:92vw;
     padding:6vh 4vw;
