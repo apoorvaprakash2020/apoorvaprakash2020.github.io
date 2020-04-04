@@ -147,7 +147,7 @@ header table {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    max-width: 50%;
   }
 .btn_one {
     font-size:18px;
@@ -171,7 +171,7 @@ header table {
 #rightImage {
     width:100%;
     height:auto;
-    background:url("./assets/Apoorva Launch-01.jpg") center center;
+    background:url("./assets/ap3.JPG") center center;
     background-size:cover;
     background-repeat: no-repeat;
 }
