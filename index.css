@@ -80,6 +80,11 @@ header table {
     background-repeat:no-repeat !important;
     margin:0px auto;
 }
+
+#img {
+    width:90%;
+    height:90%;
+}
 #logo {
     font-size:24px;
     color:rgb(114, 64, 123);
