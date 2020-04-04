@@ -145,9 +145,8 @@ header table {
 }
 
 .center_img {
-    margin: 100px auto 200px;
     text-align: center;
-    max-width: 50%;
+    max-width: 75%;
     height: auto;
     display: block;
 }
