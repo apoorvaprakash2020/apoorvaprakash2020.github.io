@@ -151,6 +151,13 @@ header table {
     display: block;
 }
 
+.banner_img {
+    text-align: center;
+    max-width: 90%;
+    height: auto;
+    display: block;
+}
+
 .btn_one {
     font-size:18px;
     font-family: 'Poppins', sans-serif;
